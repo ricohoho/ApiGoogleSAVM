@@ -1,0 +1,2 @@
+   d:\DATA\e.fassel\apache-maven-3.6.3\bin\mvn install:install-file -Dfile=D:\DATA\e.fassel\eclipse-workspace-rico\ApiGoogle\lib\ApiGoogle.jar -DgroupId=ricohoho.google -DartifactId=api-google -Dversion=1.0 -Dpackaging=JAR    -DgeneratePom=true
+   
